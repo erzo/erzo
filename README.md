@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @erzo
+- 👋  Hi, I’m Felipe
 - 👀  I’m interested in video games, crossfit, and creating helpful apps with great UI!
 - 🌱  I’m currently learning and working with React, TypeScript, and creating automated tests for unit testing & end-to-end testing!
 - 💞️  I’m looking to collaborate on ...not quite sure, but anything that intrigues me!
